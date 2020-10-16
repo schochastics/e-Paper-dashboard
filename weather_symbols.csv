@@ -1,0 +1,56 @@
+,icon,description
+1,thunderstorm,thunderstorm with light rain
+2,thunderstorm,thunderstorm with rain
+3,thunderstorm,thunderstorm with heavy rain
+4,thunderstorm,light thunderstorm
+5,thunderstorm,thunderstorm
+6,thunderstorm,heavy thunderstorm
+7,thunderstorm,ragged thunderstorm
+8,thunderstorm,thunderstorm with light drizzle
+9,thunderstorm,thunderstorm with drizzle
+10,thunderstorm,thunderstorm with heavy drizzle
+11,shower_rain,light intensity drizzle
+12,shower_rain,drizzle
+13,shower_rain,heavy intensity drizzle
+14,shower_rain,light intensity drizzle rain
+15,shower_rain,drizzle rain
+16,shower_rain,heavy intensity drizzle rain
+17,shower_rain,shower rain and drizzle
+18,shower_rain,heavy shower rain and drizzle
+19,shower_rain,shower drizzle
+20,rain,light rain
+21,rain,moderate rain
+22,rain,heavy intensity rain
+23,rain,very heavy rain
+24,rain,extreme rain
+25,snow,freezing rain
+26,shower_rain,light intensity shower rain
+27,shower_rain,shower rain
+28,shower_rain,heavy intensity shower rain
+29,shower_rain,ragged shower rain
+30,snow,light snow
+31,snow,Snow
+32,snow,Heavy snow
+33,snow,Sleet
+34,snow,Light shower sleet
+35,snow,Shower sleet
+36,snow,Light rain and snow
+37,snow,Rain and snow
+38,snow,Light shower snow
+39,snow,Shower snow
+40,snow,Heavy shower snow
+41,mist,mist
+42,mist,Smoke
+43,mist,Haze
+44,mist,sand/ dust whirls
+45,mist,fog
+46,mist,sand
+47,mist,dust
+48,mist,volcanic ash
+49,mist,squalls
+50,mist,tornado
+51,clear_sky,clear sky
+52,few_clouds,few clouds
+53,scattered_clouds,scattered clouds
+54,broken_clouds,broken clouds
+55,broken_clouds,overcast clouds
